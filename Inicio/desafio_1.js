@@ -1,8 +1,15 @@
 // Sentença e Bloco
 /*
 exibir no console os números Ímpares e Pares.
+<<<<<<< HEAD:Inicio/desafio_1.js
 Números Ímpares
 1,3,5,7,9
+=======
+
+Números Ímpares
+1,3,5,7,9
+
+>>>>>>> de56fdf375d52f2e7789f531182e3290a5a20a4c:JS/Inicio/desafio_1.js
 Números Pares
 2,4,6,8,10
 */
